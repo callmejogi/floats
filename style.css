@@ -1,0 +1,195 @@
+.box{
+    float:left;
+    background-color:aqua;
+    width:200px;
+}
+
+.container{
+    float: right;
+    background-color: blue;
+    width: 200px;
+}
+
+.header{
+    background-color: darkgrey;
+    box-sizing: border-box;
+    padding: 1%;
+    margin-bottom: 100px;
+}
+
+.clearfix{
+    clear: both;
+}
+
+.content{
+    float:left;
+    background-color:aqua;
+    width:500px;
+}
+
+.section{
+    float: right;
+    width: 500px;
+}
+
+.desc{
+    background-color: red;
+    width: 100px;
+    float:right;
+}
+
+.slogan{
+    background-color: purple;
+    width: 100px;
+    float:right;
+}
+
+.subtitle{
+    background-color: green;
+    width: 100px;
+    float:right;
+}
+
+.text{
+    background-color:yellow;
+    width: 100px;
+    float:right;
+}
+
+
+.main{
+    margin-bottom: 100px;
+    background-color: darkgrey;
+    padding: 1%;
+}
+
+.body{
+    background-color: darkgrey;
+    box-sizing: border-box;
+    padding: 1%;
+    margin-bottom: 100px;
+}
+
+.tagline{
+    float: left;
+    width: 500px;
+}
+
+.lead{
+    float: right;
+    width: 300px;
+}
+
+.copy{
+    background-color:red;
+    width: 100px;
+    float: left;
+}
+
+.copyright{
+    background-color:pink;
+    width: 100px;
+    float: left;
+}
+
+.quote{
+    background-color:red;
+    width: 100px;
+    float: right;
+}
+
+.blockquote{
+    background-color:pink;
+    width: 100px;
+    float: right;
+}
+
+.wrapper{
+    margin-left: auto;
+    margin-right: auto;
+    width:600px;
+}
+
+.image{
+    width:200px;
+    height: 200px;
+    background-color: coral;
+    float:left;
+}
+
+.button{
+    width:200px;
+    background-color: fuchsia;
+    height:75px;
+    margin-left: 20px;
+    margin-bottom: 25px;
+}
+
+.btn{
+    width:200px;
+    background-color: fuchsia;
+    height:75px;
+    margin-left: 20px;
+    margin-bottom: 25px;
+}
+
+.wrap{
+    float:left;
+}
+
+.page{
+    background-color: darkgrey;
+    box-sizing: border-box;
+    padding: 1%;
+    margin-bottom: 100px;
+}
+
+.icon{
+    width:200px;
+    height: 200px;
+    background-color: coral;
+    float:left
+}
+
+.rapper{
+    margin-left: auto;
+    margin-right: auto;
+    width:500px;
+    float: right;
+}
+
+.widget{
+    width:200px;
+    background-color: fuchsia;
+    height:75px;
+    margin-left: 20px;
+    margin-bottom: 25px;
+}
+
+.list{
+    width:200px;
+    background-color: fuchsia;
+    height:75px;
+    margin-left: 20px;
+    margin-bottom: 25px;
+}
+
+.row{
+    float: right;
+    width:300px;
+    margin-left: auto;
+    margin-bottom: auto;
+}
+
+.card{
+    margin-right:20px;
+}
+
+.card:hover{
+    background-color: plum;
+    width: 100px;
+}
+
+.icon:active{
+    background-color:black;
+}
